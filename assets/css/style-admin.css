@@ -1,0 +1,21 @@
+body{
+
+	background: rgba(19, 35, 47, 0.9);
+	color: #ffffff;
+}
+
+table{
+	color: #ffffff;
+	margin-top: 40px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+table a{
+	color: #ffffff;
+}
+
+.header{
+	
+	text-align: left;
+}
